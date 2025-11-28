@@ -14,7 +14,7 @@ d)Küpün hacmi
 
 e)Küpün çevresi
 
-Nasıl Çalıştırılır?
+Nasıl Çalıştırılır?:
 
 1)Hangi kenar uzunluğu için değerlerin hesaplanacağını giriniz.
 
